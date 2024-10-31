@@ -1,6 +1,5 @@
 ## Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kws06009)](https://solved.ac/kws06009)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
